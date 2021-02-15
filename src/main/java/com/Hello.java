@@ -7,5 +7,6 @@ public class Hello {
         System.out.println("AAA");
         System.out.println("BBB");
         System.out.println("创建分支");
+        System.out.println("远程库更新");
     }
 }
