@@ -6,5 +6,6 @@ public class Hello {
         System.out.println("Hello Git");
         System.out.println("AAA");
         System.out.println("BBB");
+        System.out.println("创建分支");
     }
 }
